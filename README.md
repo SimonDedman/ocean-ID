@@ -1,8 +1,8 @@
-# Open Marine Vision Network
+# ocean-ID
 
 **One open platform for shark, ray, and marine-megafauna video analysis.** A consortium, a benchmark dataset, and a build sprint, so that the detection, tracking, classification, individual-ID, and validation layers get built once, together, instead of once per lab.
 
-*Working title. Presented at the European Elasmobranch Association meeting (EEA 2026, 6 to 8 October 2026, online). Programme lead: Simon Dedman, Florida International University and Saving the Blue.*
+*Working name; the consortium concept note calls it the Open Marine Vision Network. Presented at the European Elasmobranch Association meeting (EEA 2026, 6 to 8 October 2026, online). Programme lead: Simon Dedman, Florida International University and Saving the Blue.*
 
 ## The problem
 
@@ -50,7 +50,7 @@ One open platform built as six modules with stable interfaces, each owned by a g
 
 The full table is in [inventory.md](inventory.md) (also [inventory.csv](inventory.csv)). Rows 44 to 51 come from EEA 2026 abstracts and have not yet been checked against the talks or project pages. The layer scores behind the figures are the compiler's reading of the public evidence, not the projects' own claims.
 
-**Is your project missing or wrong?** Open an issue or a pull request against `inventory.csv`, or email the contact below. Every row is editable.
+**Is your project missing or wrong?** Open an issue or a pull request against `inventory.csv` in this repository (github.com/SimonDedman/ocean-ID), or email the contact below. Every row is editable.
 
 ## Join
 
