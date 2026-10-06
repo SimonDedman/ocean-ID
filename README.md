@@ -6,7 +6,7 @@
 
 ## The problem
 
-AI-assisted coding has removed the barrier that used to stop a field biologist from building a detector. The result: 51 shark and marine-megafauna computer-vision projects inventoried in October 2026, of which 25 have built their own detector and 13 their own tracker, almost all on the same Ultralytics YOLO stack, each trained on one region and failing in the next. Only 8 publish data. 8 have automated individual identification; the long-running photo-ID catalogues presented at EEA 2026 are matched by hand. The largest video archives hold no models at all. Nobody connects the layers.
+AI-assisted coding has removed the barrier that used to stop a field biologist from building a detector. The result: 53 shark and marine-megafauna computer-vision projects inventoried in October 2026, of which 26 have built their own detector and 14 their own tracker, almost all on the same Ultralytics YOLO stack, each trained on one region and failing in the next. Only 8 publish data. 8 have automated individual identification; the long-running photo-ID catalogues presented at EEA 2026 are matched by hand. The largest video archives hold no models at all. Nobody connects the layers.
 
 ![Who builds which layer](figures/fig_overlap_matrix.png)
 
@@ -39,16 +39,16 @@ One open platform built as six modules with stable interfaces, each owned by a g
 
 ## The inventory
 
-51 projects, compiled 1 October 2026 from public sources (GitHub and Zenodo APIs, project pages, conference abstracts) and extended on 6 October 2026 from the EEA 2026 abstract booklet. By category:
+53 projects, compiled 1 October 2026 from public sources (GitHub and Zenodo APIs, project pages, conference abstracts) and extended on 6 October 2026 from the EEA 2026 abstract booklet. By category:
 
 - Photo-ID / re-identification: 15
 - Platform / dataset / annotation tool: 11
-- Drone / aerial: 8
+- Drone / aerial: 9
+- Aquarium, deep sea, beach safety, other: 7
 - Shark/ray BRUV detector: 6
-- Aquarium, deep sea, beach safety, other: 6
 - Fish BRUV / stereo-video platform: 5
 
-The full table is in [inventory.md](inventory.md) (also [inventory.csv](inventory.csv)). Rows 44 to 51 come from EEA 2026 abstracts and have not yet been checked against the talks or project pages. The layer scores behind the figures are the compiler's reading of the public evidence, not the projects' own claims.
+The full table is in [inventory.md](inventory.md) (also [inventory.csv](inventory.csv)). Rows 44 to 53 come from EEA 2026 talk and poster abstracts and have not yet been checked against the talks or project pages. The layer scores behind the figures are the compiler's reading of the public evidence, not the projects' own claims.
 
 **Is your project missing or wrong?** Open an issue or a pull request against `inventory.csv` in this repository (github.com/SimonDedman/ocean-ID), or email the contact below. Every row is editable.
 
