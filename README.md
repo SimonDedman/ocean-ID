@@ -6,7 +6,7 @@
 
 ## The problem
 
-AI-assisted coding has removed the barrier that used to stop a field biologist from building a detector. The result: 57 shark and marine-megafauna computer-vision projects inventoried in October 2026, of which 27 have built their own detector and 15 their own tracker, almost all on the same Ultralytics YOLO stack, each trained on one region and failing in the next. Only 9 publish data. 8 have automated individual identification; the long-running photo-ID catalogues presented at EEA 2026 are matched by hand. The largest video archives hold no models at all. Nobody connects the layers.
+AI-assisted coding has removed the barrier that used to stop a field biologist from building a detector. The result: 59 shark and marine-megafauna computer-vision projects inventoried in October 2026, of which 27 have built their own detector and 15 their own tracker, almost all on the same Ultralytics YOLO stack, each trained on one region and failing in the next. Only 9 publish data. 8 have automated individual identification; the long-running photo-ID catalogues presented at EEA 2026 are matched by hand. The largest video archives hold no models at all. Nobody connects the layers.
 
 ![Who builds which layer](figures/fig_overlap_matrix.png)
 
@@ -39,10 +39,10 @@ One open platform built as six modules with stable interfaces, each owned by a g
 
 ## The inventory
 
-57 projects, compiled 1 October 2026 from public sources (GitHub and Zenodo APIs, project pages, conference abstracts) and extended on 6 October 2026 from the EEA 2026 abstract booklet. By category:
+59 projects, compiled 1 October 2026 from public sources (GitHub and Zenodo APIs, project pages, conference abstracts) and extended on 6 October 2026 from the EEA 2026 abstract booklet. By category:
 
-- Photo-ID / re-identification: 16
-- Platform / dataset / annotation tool: 11
+- Photo-ID / re-identification: 17
+- Platform / dataset / annotation tool: 12
 - Drone / aerial: 10
 - Aquarium, deep sea, beach safety, other: 9
 - Shark/ray BRUV detector: 6
